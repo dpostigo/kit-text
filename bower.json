@@ -1,0 +1,22 @@
+{
+  "name": "kit-text",
+  "version": "0.0.1",
+  "authors": [
+    "Dani Postigo <dani.postigo@gmail.com>"
+  ],
+  "description": "less text utils",
+  "main": "less/kit-text.less",
+  "keywords": [
+    "text",
+    "less",
+    "css"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
